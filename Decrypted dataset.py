@@ -37,5 +37,5 @@ def decrypt(message2,d,n):
         word2[i]=chr(asci2[i])
     return(''.join(word2))
 
-#d (private key) calculated as 20449 and n equals 99
+#d (private key) calculated as 20449 (see extended Euclidean algorithm) and n equals 99157
 print(decrypt(contents,20449,99157))
