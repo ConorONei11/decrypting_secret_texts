@@ -75,4 +75,4 @@ The following RSA encrypted message is transmitted using public key (289, 99157)
 97957, 3762, 20345, 96542, 55243, 48985, 21121, 20383, 14930, 63679, 89675,
 2428, 49863
 
-Figure that one out!
+Let's figure that one out!
