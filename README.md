@@ -76,3 +76,5 @@ The following RSA encrypted message is transmitted using public key (289, 99157)
 2428, 49863
 
 Let's figure that one out!
+
+Note to self  - possibly need to merge this into one script. :disappointed_relieved:
